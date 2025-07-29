@@ -11,8 +11,7 @@ Wishing you the most magical birthday ever!
 You are the sunshine in my life and the reason behind so many of my smiles.
 Here’s to your dreams, endless laughter, and all the happiness in the world — because you truly deserve it all.
 
-With all my love,
-— Bhaskar 💖
+
 `;
 
   return (
