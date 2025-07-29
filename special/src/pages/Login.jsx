@@ -16,7 +16,7 @@ const Login = ({ onSuccess }) => {
     setLoading(true);
     setError('');
     try {
-      const res = await axios.post('http://localhost:6060/api/auth/keyword-check', { keyword });
+      const res = await axios.post('https://mhk-birthday.onrender.com/api/auth/keyword-check', { keyword });
       if (res.data.success) {
         onSuccess();
       } else {
